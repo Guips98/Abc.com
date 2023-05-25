@@ -68,8 +68,8 @@ p2{
 }
 .right{
     background-color: #9a9a9b;
-    background-image: url(/htmlCss/inicio/Abc.jpg);
-    display: flex;
+    background-image: url(/inicio/Abc.jpg);
+    display: flex;  
     flex-direction: column;
 } 
 h2{
@@ -83,8 +83,8 @@ h2{
 }
 #footerRight{
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-end;
+    flex-direction: column;
+    margin-left: 5rem;
     padding-top: 15rem;
 }
 #btFooter{
