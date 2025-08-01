@@ -34,6 +34,7 @@ h3{
 }
 #bt{
     display: flex;
+    alining-iten: 2px;
     justify-content: space-between;
 }
 .btWith:hover{
